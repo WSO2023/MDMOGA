@@ -1,0 +1,6 @@
+C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/CMakeFiles/Frame.dir
+C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/CMakeFiles/pugixml.dir
+C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir

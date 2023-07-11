@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Frame"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Frame">
+				<Option output="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Frame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 Frame"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Frame/fast">
+				<Option output="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Frame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 Frame/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pugixml">
+				<Option output="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/libpugixml.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 pugixml"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pugixml/fast">
+				<Option output="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/libpugixml.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 pugixml/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/EMS.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/EMS.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/GRPHEFT.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/GRPHEFT.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/HMCMB.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/HMCMB.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/MDMOGA.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/MDMOGA.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/MOELS.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/MOELS.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/MOHEFT.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/MOHEFT.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/ChrOper.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/GenOper.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/classAndVarDefine.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/common.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/config.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/pugiconfig.hpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/pugixml.hpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/include/tools.h">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/ChrOper.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/GenOper.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/classAndVarDefine.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/config.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/pugixml.cpp">
+			<Option target="Frame"/>
+			<Option target="pugixml"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/tools.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/main.cpp">
+			<Option target="Frame"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/szj/Desktop/c++/new program/renwu/RS__project__XY/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

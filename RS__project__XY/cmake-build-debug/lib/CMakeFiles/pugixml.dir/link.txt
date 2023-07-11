@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libpugixml.a CMakeFiles/pugixml.dir/pugixml.cpp.obj
+C:\mingw64\bin\ranlib.exe libpugixml.a
